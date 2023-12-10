@@ -23,8 +23,3 @@ document.addEventListener("DOMContentLoaded", function() {
   });
   
 
-//another function for toogle background
-
-function name(params) {
-  
-}
